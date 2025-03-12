@@ -59,7 +59,7 @@ public class Sales extends javax.swing.JFrame {
 
         lblquantity.setText("QUANTITY");
 
-        lblprice.setText("TOTAL PRICE");
+        lblprice.setText("PRICE PER ITEM");
 
         btnrecord.setText("RECORD SALES");
         btnrecord.addActionListener(new java.awt.event.ActionListener() {

@@ -110,7 +110,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="lblprice">
           <Properties>
-            <Property name="text" type="java.lang.String" value="TOTAL PRICE"/>
+            <Property name="text" type="java.lang.String" value="PRICE PER ITEM"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="txtprice">
